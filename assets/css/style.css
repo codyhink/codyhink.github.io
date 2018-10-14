@@ -5,7 +5,8 @@ body {
 
 header {
     height: 350px;
-    background-color: rgb(2, 37, 151);
+    /* background-color: rgb(2, 37, 151); */
+    background: linear-gradient(to right, #4b79a1, #283e51); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     margin: 0
 }
 
